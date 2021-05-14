@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@tsconfig/svelte": "^1.0.0",
-    "rrweb": "git://github.com/bobjiang1988/rrweb.git#4833418"
+    "rrweb": "git://github.com/bobjiang1988/rrweb.git#7734d1e"
   },
   "scripts": {
     "build": "rollup -c",
